@@ -1,5 +1,10 @@
-## Hi there 👋
+hey, i'm prateeti!
 
+AI & Data Science undergraduate | Building at the intersection of code, intelligence & curiosity.
+
+I'm currently pursuing my B.Tech in Artificial Intelligence & Data Science at K. J. Somaiya School of Engineering, Mumbai.
+
+I enjoy exploring how intelligent systems work, building software around interesting ideas, and figuring out what happens when theory meets the real world.
 <!--
 **prateetistuff/prateetistuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
